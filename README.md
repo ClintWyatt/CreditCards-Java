@@ -6,4 +6,5 @@ To run the program, you can use the command line for Windows, Mac or Linux. Make
 have the latest version of java installed on to your system and have java in your system path.
 
 To Compile: javac *.java
+
 To Run: java main
